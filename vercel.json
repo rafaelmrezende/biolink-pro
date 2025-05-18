@@ -5,13 +5,9 @@
   "framework": "nextjs",
   "outputDirectory": ".next",
   "env": {
-    "NEXTAUTH_URL": {
-      "type": "string",
-      "value": ""
-    },
     "NEXTAUTH_SECRET": {
       "type": "string",
-      "value": ""
+      "value": "Rafael123#"
     },
     "DATABASE_URL": {
       "type": "string",
