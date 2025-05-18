@@ -28,7 +28,7 @@ BioLink PRO é uma solução completa para criação de páginas "link na bio" p
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/biolink-pro.git
+git clone https://github.com/rafaelmrezende/biolink-pro.git
 cd biolink-pro
 ```
 
