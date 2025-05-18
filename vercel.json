@@ -3,15 +3,5 @@
   "buildCommand": "npm run build",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "outputDirectory": ".next",
-  "env": {
-    "NEXTAUTH_SECRET": {
-      "type": "string",
-      "value": "Rafael123#"
-    },
-    "DATABASE_URL": {
-      "type": "string",
-      "value": "file:./prod.db"
-    }
-  }
+  "outputDirectory": ".next"
 }
