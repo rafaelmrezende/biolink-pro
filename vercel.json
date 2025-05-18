@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXTAUTH_URL": {
+      "type": "string",
+      "value": ""
+    },
+    "NEXTAUTH_SECRET": {
+      "type": "string",
+      "value": ""
+    },
+    "DATABASE_URL": {
+      "type": "string",
+      "value": "file:./prod.db"
+    }
+  }
+}
