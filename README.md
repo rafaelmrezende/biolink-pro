@@ -7,7 +7,7 @@ BioLink PRO é uma solução completa para criação de páginas "link na bio" p
 - **Autenticação Segura**: Sistema de login/registro com e-mail e senha
 - **Painel Personalizável**: Edição de perfil, links, redes sociais e temas visuais
 - **Página Pública Responsiva**: Layout adaptável para qualquer dispositivo
-- **Painel Administrativo**: Gerenciamento de usuários e estatísticas
+- **Painel Administrativo**: Gerenciamento de usuários e estatísticas 
 - **Design Moderno**: Interface elegante com TailwindCSS e componentes shadcn/ui
 - **Deploy Simplificado**: Configuração pronta para deploy na Vercel
 
